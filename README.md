@@ -1,0 +1,52 @@
+# keshi – Soft Spot
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:19.73] I don't go out, but I'll do it for you
+[00:24.11] You never liked it when I drink too much
+[00:28.77] I hate to dance, but I'll dance with you
+[00:33.27] 'Cause I'd do anything to feel your touch
+[00:53.77] 
+[00:36.85] Don't like anybody, tell me why it's different with you
+[00:41.32] Don't believe in love but no one makes me feel like you do
+[00:45.97] I don't say it much 'cause I just always thought that you knew, I
+[01:18.47] 
+[00:54.72] It's what you do to me
+[00:57.49] I'm wrapped around your finger and I can't stop
+[01:01.94] You know I got a soft spot for you
+[01:06.53] You know I got a soft spot for you
+[01:13.07] Baby, can't you see?
+[01:15.70] I need you 'cause you're everything that I'm not
+[01:20.30] You know I got a soft spot for you
+[01:24.71] You know I got a soft spot for you
+[01:41.71] 
+[01:31.13] Too late
+[01:32.53] Don't wanna fall, baby I just
+[01:35.31] Don't need somebody else to throw me aside
+[01:38.89] But I'm up all night
+[01:41.87] Thinkin' 'bout how it could be you to change my heart, but I
+[02:11.87] 
+[01:49.27] Don't like anybody, tell me why it's different with you
+[01:53.84] Don't believe in love but no one makes me feel like you do
+[01:58.41] I don't say it much 'cause I just always thought that you knew, I
+[02:30.91] 
+[02:07.18] It's what you do to me
+[02:09.81] I'm wrapped around your finger and I can't stop
+[02:14.42] You know I got a soft spot for you
+[02:19.04] You know I got a soft spot for you
+[02:25.55] Baby, can't you see?
+[02:28.02] I need you 'cause you're everything that I'm not
+[02:32.56] You know I got a soft spot for you
+[02:37.18] You know I got a soft spot for you
+[02:54.18] 
+[02:41.53] For you
+[02:45.96] For you
+[02:50.66] For you
+[02:55.19] You know I got a soft spot for you
+[03:12.19] 
+[03:01.43] It's what you do to me
+[03:04.16] I'm wrapped around your finger and I can't stop
+[03:08.68] You know I got a soft spot for you
+[03:13.25] You know I got a soft spot for you
+```
