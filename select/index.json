@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Soft Spot",
+  "base_artist": "keshi",
+  "createdAt": "2026-02-22T19:48:54.450588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "Claud",
+      "has_synced": true,
+      "path": "select/01_Soft_Spot_Claud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "Ralph Castelli",
+      "has_synced": false,
+      "path": "select/02_Soft_Spot_Ralph_Castelli.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "piri feat. Tommy Villiers & piri & tommy",
+      "has_synced": true,
+      "path": "select/03_soft_spot_piri_feat._Tommy_Villiers_&_piri_&_tommy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "piri & tommy, Tommy Villiers",
+      "has_synced": true,
+      "path": "select/04_soft_spot_piri_&_tommy,_Tommy_Villiers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soft Spot In My Skull",
+      "artist": "Mutoid Man",
+      "has_synced": true,
+      "path": "select/05_Soft_Spot_In_My_Skull_Mutoid_Man.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "piri & tommy",
+      "has_synced": false,
+      "path": "select/06_soft_spot_piri_&_tommy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "Piri",
+      "has_synced": false,
+      "path": "select/07_soft_spot_Piri.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "Tiny Moving Parts",
+      "has_synced": true,
+      "path": "select/08_Soft_Spot_Tiny_Moving_Parts.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soft spot for monarchs",
+      "artist": "Haley Blais",
+      "has_synced": true,
+      "path": "select/09_Soft_spot_for_monarchs_Haley_Blais.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "piri, Tommy Villiers",
+      "has_synced": true,
+      "path": "select/10_soft_spot_piri,_Tommy_Villiers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "soft spot",
+      "artist": "piri & tommy villiers",
+      "has_synced": true,
+      "path": "select/11_soft_spot_piri_&_tommy_villiers.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "The California Honeydrops",
+      "has_synced": false,
+      "path": "select/12_Soft_Spot_The_California_Honeydrops.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "Stephanie Belle",
+      "has_synced": false,
+      "path": "select/13_Soft_Spot_Stephanie_Belle.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "California Honeydrops, The",
+      "has_synced": false,
+      "path": "select/14_Soft_Spot_California_Honeydrops,_The.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "Chelsea Jade",
+      "has_synced": false,
+      "path": "select/15_Soft_Spot_Chelsea_Jade.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Soft Spot",
+      "artist": "keshi",
+      "has_synced": true,
+      "path": "select/16_Soft_Spot_keshi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soft Spot",
+      "artist": "keshi",
+      "has_synced": false,
+      "path": "select/pl_01_Soft_Spot_keshi.txt"
+    }
+  ]
+}
